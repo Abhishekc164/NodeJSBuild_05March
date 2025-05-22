@@ -1,10 +1,10 @@
-import React from "react";
+eimport React from "react";
 import './App.css'; // Importing the CSS file for styles
 
 const App = () => {
   return (
     <div className="container">
-      <h1 className="text">Testing Webhook...!</h1>
+      <h1 className="text">Welcome To The Acceleration Training Center...!</h1>
     </div>
   );
 };
